@@ -13,6 +13,7 @@
             "authentication"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {},
+        "name": "Synergy"
     }
 }
