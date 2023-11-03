@@ -66,9 +66,10 @@
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "user"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 450,
@@ -141,7 +142,8 @@
 					"configParams": "{}",
 					"nodeIcon": "ph:globe-simple",
 					"asssignedVariableName": "creds"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -202,13 +204,13 @@
 					"hasExtraData": false,
 					"configParams": "{}"
 				},
-				"skake": false
+				"skake": true
 			},
 			"position": {
 				"x": 50,
 				"y": 83
 			},
-			"selected": false,
+			"selected": true,
 			"positionAbsolute": {
 				"x": 50,
 				"y": 83
@@ -253,8 +255,8 @@
 		}
 	],
 	"viewport": {
-		"x": 10,
-		"y": 15,
-		"zoom": 1
+		"x": 14.713279436864525,
+		"y": 25.405441295410128,
+		"zoom": 0.9648923780071473
 	}
 }
