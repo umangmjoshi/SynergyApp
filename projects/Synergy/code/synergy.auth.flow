@@ -1,2 +1,4 @@
-Flow synergy.auth
+Flow __________
      Basepath ""
+creds = RRF "LandingPage..ftlh" 
+user = Call com.synergy.UserAuth#login "uid" creds.username  ""
