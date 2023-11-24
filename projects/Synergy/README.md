@@ -1,2 +1,0 @@
-### Synergy
- The firstAgama project
