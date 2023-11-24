@@ -1,1 +1,18 @@
-{}
+{
+    "NoPassword": {
+        "projectName": "NoPassword",
+        "description": "No Password Requires to Login",
+        "type": "community",
+        "author": "umangmjoshi",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/umangmjoshi/SynergyApp",
+        "githubUri": "https://github.com/umangmjoshi/SynergyApp",
+        "license": "apache-2.0",
+        "lastUpdated": "1700823207621",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
