@@ -3,3 +3,7 @@ Flow me.gluu.agama.nopw
 creds = RRF "uid-form.fith" 
 user = Call co.sample#searchAndAdd "uid" creds.username ""
 isBob = Call co.Personchecker#isBob creds.username
+When isBob is true
+     RRF "__________" 
+Log "@ " __________
+Finish creds.username
