@@ -44,7 +44,9 @@
 						}
 					],
 					"callType": "Call static method",
-					"arguments": "creds.username",
+					"arguments": [
+						"creds.username"
+					],
 					"logMessage": "",
 					"templatePath": "",
 					"maxIteration": "",
@@ -53,7 +55,7 @@
 					"conditionInputField": "",
 					"valueField": "",
 					"returnVariable": "",
-					"javaClassName": "co.PersonChecker",
+					"javaClassName": "co.Personchecker",
 					"javaMethodName": "isBob",
 					"javaVariableName": "",
 					"maxIterationVariableName": "",
@@ -66,7 +68,8 @@
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "isBob"
-				}
+				},
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
@@ -348,8 +351,8 @@
 		}
 	],
 	"viewport": {
-		"x": 66.39408172208414,
-		"y": 139.68849024563443,
-		"zoom": 0.9207125736912879
+		"x": 3,
+		"y": 149,
+		"zoom": 1
 	}
 }
