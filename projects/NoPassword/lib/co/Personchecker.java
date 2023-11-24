@@ -1,5 +1,5 @@
 package co;
 
-public class PersonChecker{
+public class Personchecker{
 
 }
