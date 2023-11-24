@@ -13,6 +13,9 @@
             "openid-connect"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "me.gluu.agama.nopw": {}
+        },
+        "name": "NoPassword"
     }
 }
