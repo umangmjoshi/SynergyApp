@@ -1,3 +1,4 @@
 Flow me.gluu.agama.nopw
      Basepath ""
 creds = RRF "uid-form.fith" 
+user = Call co.sample#searchAndAdd "uid" creds.username ""
