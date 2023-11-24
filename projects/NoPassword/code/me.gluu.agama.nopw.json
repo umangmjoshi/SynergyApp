@@ -66,7 +66,8 @@
 					"configParams": "{}",
 					"nodeIcon": "ph:globe-simple",
 					"asssignedVariableName": "creds"
-				}
+				},
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
@@ -128,7 +129,7 @@
 					"configParams": "{}",
 					"flowname": "me.gluu.agama.nopw"
 				},
-				"skake": true
+				"skake": false
 			},
 			"position": {
 				"x": 30,
@@ -162,8 +163,8 @@
 		}
 	],
 	"viewport": {
-		"x": -21.567694321359568,
-		"y": 135.69315002021114,
-		"zoom": 1.1700229797515713
+		"x": 10,
+		"y": 15,
+		"zoom": 1
 	}
 }
